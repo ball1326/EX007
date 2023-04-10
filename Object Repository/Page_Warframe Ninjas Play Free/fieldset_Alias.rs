@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>fieldset_Alias</name>
+   <tag></tag>
+   <elementGuidId>82faeffb-898f-4a5f-8793-43bb57701937</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//fieldset[@id='alias_f']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#alias_f</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>fieldset</value>
+      <webElementGuid>4bcbbe9c-e858-4f1b-9c08-1e7abab9890f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>alias_f</value>
+      <webElementGuid>fd46a850-30b0-4ee8-bf2f-a296839376e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-tip</name>
+      <type>Main</type>
+      <value>This will be your username in Warframe. Letters and numbers only, please. Note: Warframe reserves the right to ban any account/alias deemed offensive.</value>
+      <webElementGuid>76a2aacd-225c-4505-a00a-89facb0df3b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                Alias:
+                
+                            </value>
+      <webElementGuid>4e69a119-491f-4325-a68b-be31d6897d5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;alias_f&quot;)</value>
+      <webElementGuid>46b3de9a-35c5-40fa-aee5-6ba9db268b2c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//fieldset[@id='alias_f']</value>
+      <webElementGuid>d532cb16-f9d1-4453-b1c6-7750bc253f5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='signupLightbox']/div/div/div/div[3]/form/fieldset[3]</value>
+      <webElementGuid>a52b8b9f-a990-48cb-828e-1bf39eb080df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Invalid Email Address'])[1]/following::fieldset[1]</value>
+      <webElementGuid>7a50123f-8377-45ea-bb41-776b3feb1604</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirm Email:'])[1]/following::fieldset[1]</value>
+      <webElementGuid>15fbd9b0-03a6-45b2-9a30-754f822fa1c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password:'])[1]/preceding::fieldset[1]</value>
+      <webElementGuid>bab8eb41-5afd-489f-8b30-97272585cbba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fieldset[3]</value>
+      <webElementGuid>e80d406d-459f-4414-b24e-8b72ad2f0305</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//fieldset[@id = 'alias_f' and (text() = '
+                Alias:
+                
+                            ' or . = '
+                Alias:
+                
+                            ')]</value>
+      <webElementGuid>0289ef72-b9ba-486d-8e06-14d5dd1ed68d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
